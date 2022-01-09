@@ -1,4 +1,3 @@
-# Python-Projects
 Project name: Contact Book with calling feature 
 © Kanika Joshi
 
